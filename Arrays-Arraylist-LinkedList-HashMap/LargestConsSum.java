@@ -2,11 +2,11 @@
  *Program statement: Find the largest sum of consecutive integers in an array.
  *
  *Sample Input 1: 8   
- *				  -2 -3 4 -1 -2 1 5 -3
+ *		 -2 -3 4 -1 -2 1 5 -3
  *Sample Output 1: 7
  *
  *Sample Input 2: 10
- *				 2 -9 -1 12 7 -2 5 -15 -2 12
+ *		 2 -9 -1 12 7 -2 5 -15 -2 12
  *Sample Output 2: 22
  */
 
